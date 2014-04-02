@@ -1,0 +1,143 @@
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: asdf 
+---> Diners inicials: 200 €
+---> Diners finals:  100 €
+---> Beneficis/Perdues:  -100 €
+---> Hora de inici: Mon Mar 31 19:21:49 CEST 2014
+---> Hora de fi: Mon Mar 31 19:23:09 CEST 2014
+---> Duració: 1,00 minuts
+---> Partidas jugadas:  1
+---> Partidas ganadas: 0 (0% victories)
+---> Partidas perdidas: 1 (100% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: ladfs 
+---> Diners inicials: 200 €
+---> Diners finals:  75 €
+---> Beneficis/Perdues:  -125 €
+---> Hora de inici: lunes 31 de marzo de 2014 19:38:56
+---> Hora de fi: lunes 31 de marzo de 2014 19:39:47
+---> Duració: 0,86 minuts
+---> Partidas jugadas:  3
+---> Partidas ganadas: 1 (33% victories)
+---> Partidas perdidas: 2 (66% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: asdf 
+---> Diners inicials: 200 €
+---> Diners finals:  150 €
+---> Beneficis/Perdues:  -50 €
+---> Hora de inici: lunes 31 de marzo de 2014 19:56:54
+---> Hora de fi: lunes 31 de marzo de 2014 19:57:18
+---> Duració: 1:00 hores
+---> Partidas jugadas:  2
+---> Partidas ganadas: 1 (50,00% victories)
+---> Partidas perdidas: 1 (50,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: asd 
+---> Diners inicials: 20 €
+---> Diners finals:  10 €
+---> Beneficis/Perdues:  -10 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:02:07
+---> Hora de fi: lunes 31 de marzo de 2014 20:02:57
+---> Duració: 1:00 hores
+---> Partidas jugadas:  3
+---> Partidas ganadas: 1 (33,33% victories)
+---> Partidas perdidas: 2 (66,67% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: ladsf 
+---> Diners inicials: 100 €
+---> Diners finals:  80 €
+---> Beneficis/Perdues:  -20 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:06:23
+---> Hora de fi: lunes 31 de marzo de 2014 20:06:36
+---> Duració: 0 1:00 hores
+---> Partidas jugadas:  1
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 1 (100,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: adf 
+---> Diners inicials: 200 €
+---> Diners finals:  90 €
+---> Beneficis/Perdues:  -110 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:06:58
+---> Hora de fi: lunes 31 de marzo de 2014 20:10:12
+---> Duració: 3 1:00 hores
+---> Partidas jugadas:  2
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 2 (100,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: ladf 
+---> Diners inicials: 200 €
+---> Diners finals:  25 €
+---> Beneficis/Perdues:  -175 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:11:53
+---> Hora de fi: lunes 31 de marzo de 2014 20:16:23
+---> Duració: 270312 1:04 hores
+---> Partidas jugadas:  3
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 3 (100,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: laura 
+---> Diners inicials: 200 €
+---> Diners finals:  100 €
+---> Beneficis/Perdues:  -100 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:18:41
+---> Hora de fi: lunes 31 de marzo de 2014 20:20:53
+---> Duració: 132252 1:02 hores
+---> Partidas jugadas:  3
+---> Partidas ganadas: 1 (33,33% victories)
+---> Partidas perdidas: 2 (66,67% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: laura 
+---> Diners inicials: 100 €
+---> Diners finals:  80 €
+---> Beneficis/Perdues:  -20 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:24:30
+---> Hora de fi: lunes 31 de marzo de 2014 20:24:50
+---> Duració: 0,34 hores
+---> Partidas jugadas:  1
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 1 (100,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: asdf 
+---> Diners inicials: 200 €
+---> Diners finals:  188 €
+---> Beneficis/Perdues:  -12 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:25:20
+---> Hora de fi: lunes 31 de marzo de 2014 20:27:09
+---> Duració: 1,82 minuts
+---> Partidas jugadas:  1
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 1 (100,00% derrotes)
+
+            E s ta d í s t i q u e s   d e l   j u g a d o r
+----------------------------------------------------------------
+---> Jugador: asdf 
+---> Diners inicials: 200 €
+---> Diners finals:  190 €
+---> Beneficis/Perdues:  -10 €
+---> Hora de inici: lunes 31 de marzo de 2014 20:32:42
+---> Hora de fi: lunes 31 de marzo de 2014 20:32:54
+---> Duració: 0,21 minuts
+---> Partidas jugadas:  1
+---> Partidas ganadas: 0 (0,00% victories)
+---> Partidas perdidas: 1 (100,00% derrotes)
