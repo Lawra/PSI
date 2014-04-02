@@ -1,0 +1,222 @@
+run:
+****************************************************************************
+****************************************************************************
+************                                                    ************
+************    G E O A P P   -  S H A P E S   I N   J A V A    ************
+************                                                    ************
+****************************************************************************
+****************************************************************************
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 1
+
+---------------------------------
+ Figura: Cuadrado
+---------------------------------
+Introduce el valor de:
+  - Lado (en cm): 10,5
+
+> Área: 110,25 cm2
+> Perímetro: 42,00 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 2
+
+---------------------------------
+ Figura: Rectángulo
+---------------------------------
+Introduce los valores de:
+  - Base (en cm): 3,4
+  - Altura (en cm): 5,8
+
+> Área: 19,72 cm2
+> Perímetro: 18,40 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 3
+
+---------------------------------
+ Figura: Círculo
+---------------------------------
+Introduce el valor de:
+  - Radio (en cm): 2,5
+
+> Área: 19,63 cm2
+> Perímetro: 15,71 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 4
+
+---------------------------------
+ Figura: Esfera
+---------------------------------
+Introduce el valor de:
+  - Radio (en cm): 2,4
+
+> Área: 72,38 cm2
+> Volumen: 57,91 cm3
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 5
+
+---------------------------------
+ Figura: Rombo
+---------------------------------
+Introduce el valor de:
+  - Eje X (en cm): 1,3
+  - Eje Y (en cm): 2,4
+
+> Área: 1,56 cm2
+> Perimetro: 5,46 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 6
+
+---------------------------------
+ Figura: Elipse
+---------------------------------
+Introduce el valor de:
+  - Eje X (en cm): 1,2
+  - Eje Y (en cm): 3,4
+
+> Área: 3,20 cm2
+> Perimetro: 8,44 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 7
+
+---------------------------------
+ Figura: Cilindro
+---------------------------------
+Introduce el valor de:
+  - Radio (en cm): 1,4
+  - Altura (en cm): 1,5
+
+> Área: 25,51 cm2
+> Volumen: 9,24 cm3
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 8
+
+---------------------------------
+ Figura: Trapecio
+---------------------------------
+Introduce el valor de:
+  - Base menor (en cm): 1,8
+  - Base mayor (en cm): 2,4
+  - Altura (en cm): 2,4
+
+> Área: 5,04 cm2
+> Perimetro: 9,04 cm
+
+
+ MENÚ DE OPCIONES:
+- - - - - - - - - - - - - - - 
+ 1.- Crear un cuadrado
+ 2.- Crear un rectángulo
+ 3.- Crear un círculo
+ 4.- Crear una esfera
+ 5.- Crear un rombo
+ 6.- Crear una elipse
+ 7.- Crear un cilindro
+ 8.- Crear un trapecio
+ 9.- Salir
+
+Escoge una opción (1-9): 9
+
+BUILD SUCCESSFUL (total time: 53 seconds)

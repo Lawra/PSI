@@ -1,0 +1,24 @@
+public static double readDouble(String message) {
+        double value = 0D;
+        
+        NumberFormat formatter = NumberFormat.getNumberInstance();
+        boolean isCorrectValue = false;
+        do {
+            System.out.print(message);
+            try {
+                value = formatter.parse(stdin.nextLine()).doubleValue();
+                if (value > 0D) {
+                    isCorrectValue = true;
+                }
+                else {
+                    System.out.println("Error: Se debe introducir un valor positivo!!!");
+                }
+            }
+            catch (ParseException ex) {
+                System.out.println("Error: Se debe introducir un valor numérico!!!");
+            }
+        }
+        while (!isCorrectValue);
+        
+        return value;
+    }

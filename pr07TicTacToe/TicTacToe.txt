@@ -1,0 +1,135 @@
+#############################################################################################
+#############################################################################################
+####################                                                     ####################
+####################          T I C   T A C   T O E   v1.0               ####################
+####################                                                     ####################
+#############################################################################################
+#############################################################################################
+
+> Jugador 1: Jordi
+Bienvenido Jordi. Eres el primero en empezar y tu símbolo es: O
+
+> Jugador 2: Pedro
+Bienvenido Pedro. Eres el segundo en jugar y tu símbolo es: X
+
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 1 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| 1 |	| 2 |	| 3 |
+	-----	-----	-----
+	| 4 |	| 5 |	| 6 |
+	-----	-----	-----
+	| 7 |	| 8 |	| 9 |
+	-----	-----	-----
+
+> Jordi (Jugador 1) elige posición (1-9): 5
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 2 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| 1 |	| 2 |	| 3 |
+	-----	-----	-----
+	| 4 |	| O |	| 6 |
+	-----	-----	-----
+	| 7 |	| 8 |	| 9 |
+	-----	-----	-----
+
+> Pedro (Jugador 2) elige posición (1-9): 5
+Error: La posición indicada del tablero ya está ocupada!!!
+
+> Pedro (Jugador 2) elige posición (1-9): 10
+Error: La posición indicada no existe en el tablero!!!!
+
+> Pedro (Jugador 2) elige posición (1-9): a
+Error: Debes introducir un valor numérico!!!!
+
+> Pedro (Jugador 2) elige posición (1-9): 1
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 3 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| X |	| 2 |	| 3 |
+	-----	-----	-----
+	| 4 |	| O |	| 6 |
+	-----	-----	-----
+	| 7 |	| 8 |	| 9 |
+	-----	-----	-----
+
+> Jordi (Jugador 1) elige posición (1-9): 2
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 4 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| X |	| O |	| 3 |
+	-----	-----	-----
+	| 4 |	| O |	| 6 |
+	-----	-----	-----
+	| 7 |	| 8 |	| 9 |
+	-----	-----	-----
+
+> Pedro (Jugador 2) elige posición (1-9): 3
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 5 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| X |	| O |	| X |
+	-----	-----	-----
+	| 4 |	| O |	| 6 |
+	-----	-----	-----
+	| 7 |	| 8 |	| 9 |
+	-----	-----	-----
+
+> Jordi (Jugador 1) elige posición (1-9): 8
+
+---------------------------------------------------------------------
+  FELICIDADES Jordi has ganado la partida en 5 movimientos
+---------------------------------------------------------------------
+
+E S T A D Í S T I C A S
+---------------------------------------
+
+1.- Resumen de la última partida jugada:
+
+Partida: 1
+------------------------------------------------------------
+- Tiradas: 5 
+- Jugador 1: Jordi (Símbolo O)
+- Jugador 2: Pedro (Símbolo X)
+
+	-----	-----	-----
+	| X |	| O |	| X |
+	-----	-----	-----
+	| 4 |	| O |	| 6 |
+	-----	-----	-----
+	| 7 |	| O |	| 9 |
+	-----	-----	-----
+
+2.- Hall of Fame: 
+
+- Partidas jugadas: 1 
+- Victorias jugador 1 (Jordi): 1 (100,00%)
+- Victorias jugador 2 (Pedro): 0 (0,00%)
+- Partidas empatadas: 0 (0,00%)
+
+¿Deseáis abandonar el juego? (Y/N):  y
